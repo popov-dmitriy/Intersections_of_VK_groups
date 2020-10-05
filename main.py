@@ -145,7 +145,7 @@ def take_browser(browser):
 
 
 if __name__ == "__main__":
-    token = "b8a5d30bb8a5d30bb8a5d30b61b8c91be3bb8a5b8a5d30be5d35f23e3f9d4fa5fa6f640"  # Сервисный ключ доступа
+    token = "*********************************************************************************"  # Сервисный ключ доступа
     session = vk.Session(access_token=token)  # Авторизация
     vk_api = vk.API(session)
 
